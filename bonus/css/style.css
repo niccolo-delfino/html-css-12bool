@@ -3,11 +3,11 @@
 }
 
 .red{
-  background-color: red;
+  background-color: #BE2E37;
 }
 
 .yellow{
-  background-color: yellow;
+  background-color:#FFC13C;
 }
 
 .white{
@@ -15,19 +15,19 @@
 }
 
 .pink{
-  background-color: pink;
+  background-color: #E4C597;
 }
 
 .lightblue{
-  background-color: lightblue;
+  background-color: #426899;
 }
 
 .green{
-  background-color: green;
+  background-color: #096A3F;
 }
 
 .brown{
-  background-color: brown;
+  background-color: #62483B;
 }
 
 .row [class*="col-"]{

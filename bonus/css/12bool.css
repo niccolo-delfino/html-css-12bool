@@ -123,6 +123,10 @@
   margin-left: calc(100% / 33 * 12)
 }
 
+.col-offset-13{
+  margin-left: calc(100% / 33 * 13)
+}
+
 .col-offset-15{
   margin-left: calc(100% / 33 * 15)
 }
@@ -133,4 +137,8 @@
 
 .col-offset-29{
   margin-left: calc(100% / 33 * 29)
+}
+
+.col-offset-33{
+  margin-left: calc(100% / 33 * 33)
 }
