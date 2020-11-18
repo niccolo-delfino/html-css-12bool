@@ -15,7 +15,7 @@
   clear: both;
 }
 .row{
-  height: 150px;
+  height: 200px;
 }
 .row [class*="col-"]{
   float: left;
@@ -23,7 +23,7 @@
 }
 
 .col-1{
-  width: calc(100% / 12 * 1)
+  width: calc(100% / 12 * 1);
 }
 
 .col-2{

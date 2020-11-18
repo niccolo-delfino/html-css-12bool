@@ -1,0 +1,5 @@
+.row [class*="col-"]{
+  border: 1px solid black;
+  line-height: 200px;
+  text-align: center;
+}
